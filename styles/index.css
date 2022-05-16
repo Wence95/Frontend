@@ -1,5 +1,7 @@
 .test {
     color: green;
+    font-size: xx-large;
+    font-weight: bolder;
 }
 body {
     background-color: rgb(165, 32, 32);
