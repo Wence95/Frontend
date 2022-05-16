@@ -1,10 +1,10 @@
 .test {
     color: green;
 }
-.body {
-    background-color: red;
+body {
+    background-color: rgb(165, 32, 32);
 }
-.p {
+p {
     font-style: italic;
     font-size: medium;
 }
