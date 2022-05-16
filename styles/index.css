@@ -1,15 +1,12 @@
 .test {
     color: green;
-<<<<<<< HEAD
     font-size: xx-large;
     font-weight: bolder;
-=======
 }
-.body {
+body {
     background-color: red;
 }
-.p {
+p {
     font-style: italic;
     font-size: medium;
->>>>>>> 38050a87951baa24fec0f7ae00ed1018f0e79cde
 }
